@@ -311,32 +311,3 @@ You can run tests for all models with
 ```bash
 make dbt-test
 ```
-
----
-
-## Contributing <a name="contributing"></a>
-
-Contributions are welcome! Please follow these steps.
-
-1.  Fork the repository.
-2.  Create a branch 
-    ```bash
-     git checkout -b feature/YourFeature
-    ``` 
-3.  Commit your changes 
-    ```bash
-    git commit -m "Add new feature"
-    ```
-4.  Push to the branch 
-    ```bash
-    git push origin feature/YourFeature
-    ```
-5.  Open a **Pull Request**
-
-Ensure all tests pass before creating a PR.
-
----
-
-## License <a name="license"></a>
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
