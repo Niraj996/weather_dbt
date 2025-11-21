@@ -1,0 +1,8 @@
+continent,lat_min,lat_max,lon_min,lon_max
+Africa,-35,37,-20,55
+Asia,10,80,25,180
+Europe,35,70,-10,60
+North America,15,85,-170,-50
+South America,-55,15,-85,-35
+Australia,-45,-10,110,180
+Antarctica,-90,-60,-180,180

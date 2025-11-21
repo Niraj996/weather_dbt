@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: stg_weather_data
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+      - name: city
+        tests:
+          - not_null
+      - name: temperature
+        tests:
+          - not_null
+      - name: cloud
+        tests:
+          - not_null 
+      - name: precipitation
+        tests:
+          - not_null 
